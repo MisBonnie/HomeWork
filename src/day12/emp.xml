@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<emp id="1">
+		<name>陈贺贺</name>
+		<age>30</age>
+		<gender>男</gender>
+		<salary>7000</salary>
+		<hiredate>2006-01-01</hiredate>
+	</emp>
+	<emp id="2">
+		<name>刘增宝</name>
+		<age>22</age>
+		<gender>女</gender>
+		<salary>4000</salary>
+		<hiredate>2008-02-15</hiredate>
+	</emp>
+	<emp id="3">
+		<name>孙令令</name>
+		<age>23</age>
+		<gender>男</gender>
+		<salary>3500</salary>
+		<hiredate>2012-05-12</hiredate>
+	</emp>
+	<emp id="4">
+		<name>谢磊</name>
+		<age>24</age>
+		<gender>男</gender>
+		<salary>4500</salary>
+		<hiredate>2013-11-28</hiredate>
+	</emp>
+	<emp id="5">
+		<name>王晶</name>
+		<age>27</age>
+		<gender>男</gender>
+		<salary>6500</salary>
+		<hiredate>2004-06-07</hiredate>
+	</emp>
+	<emp id="6">
+		<name>赵四</name>
+		<age>28</age>
+		<gender>男</gender>
+		<salary>6000</salary>
+		<hiredate>2007-08-09</hiredate>
+	</emp>
+
+</list>
